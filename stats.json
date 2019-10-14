@@ -1,0 +1,136 @@
+{
+  "assetsByChunkName": {
+    "component---src-pages-privacy-js": [
+      "component---src-pages-privacy-js-50e3c86bb706c805131f.js",
+      "component---src-pages-privacy-js-50e3c86bb706c805131f.js.map"
+    ],
+    "component---src-pages-privacy-zh-js": [
+      "component---src-pages-privacy-zh-js-e6814c4371f447cb9712.js",
+      "component---src-pages-privacy-zh-js-e6814c4371f447cb9712.js.map"
+    ],
+    "component---src-pages-aresconnect-js": [
+      "component---src-pages-aresconnect-js-4f19ce55ce9eb308d9c4.js",
+      "component---src-pages-aresconnect-js-4f19ce55ce9eb308d9c4.js.map"
+    ],
+    "component---src-pages-index-js": [
+      "component---src-pages-index-js-634ba6d42f75c31e7f1e.js",
+      "component---src-pages-index-js-634ba6d42f75c31e7f1e.js.map"
+    ],
+    "component---src-pages-imprint-js": [
+      "component---src-pages-imprint-js-2741d2fcc33daf7e5312.js",
+      "component---src-pages-imprint-js-2741d2fcc33daf7e5312.js.map"
+    ],
+    "component---src-pages-term-of-use-zh-js": [
+      "component---src-pages-term-of-use-zh-js-7bd213b32062bb88f586.js",
+      "component---src-pages-term-of-use-zh-js-7bd213b32062bb88f586.js.map"
+    ],
+    "path---zh-privacy": [
+      "path---zh-privacy-55bafd995e3102dbf0aa.js",
+      "path---zh-privacy-55bafd995e3102dbf0aa.js.map"
+    ],
+    "component---src-pages-wallet-js": [
+      "component---src-pages-wallet-js-5f428c0da1a8a115ecfe.js",
+      "component---src-pages-wallet-js-5f428c0da1a8a115ecfe.js.map"
+    ],
+    "path---": [
+      "path----557518bd178906f8d58a.js",
+      "path----557518bd178906f8d58a.js.map"
+    ],
+    "component---src-pages-aresarena-js": [
+      "component---src-pages-aresarena-js-74ff04d49417d1232679.js",
+      "component---src-pages-aresarena-js-74ff04d49417d1232679.js.map"
+    ],
+    "component---src-layouts-index-jsx": [
+      "component---src-layouts-index-jsx-196e12f0c1ebd7e9060f.js",
+      "component---src-layouts-index-jsx-196e12f0c1ebd7e9060f.js.map"
+    ],
+    "path---zh": [
+      "path---zh-ef695aa776eed21e41f6.js",
+      "path---zh-ef695aa776eed21e41f6.js.map"
+    ],
+    "component---src-pages-aressuite-js": [
+      "component---src-pages-aressuite-js-19d58a4027c08d2380f1.js",
+      "component---src-pages-aressuite-js-19d58a4027c08d2380f1.js.map"
+    ],
+    "path---term-of-use": [
+      "path---term-of-use-aca343cad23346ee47c9.js",
+      "path---term-of-use-aca343cad23346ee47c9.js.map"
+    ],
+    "component---src-pages-term-of-use-js": [
+      "component---src-pages-term-of-use-js-a0bcf00d9688bb689d51.js",
+      "component---src-pages-term-of-use-js-a0bcf00d9688bb689d51.js.map"
+    ],
+    "path---aressuite": [
+      "path---aressuite-068214dac1b6accba669.js",
+      "path---aressuite-068214dac1b6accba669.js.map"
+    ],
+    "path---index": [
+      "path---index-444cf217d3ecd7d9367a.js",
+      "path---index-444cf217d3ecd7d9367a.js.map"
+    ],
+    "path---imprint": [
+      "path---imprint-303770d1d64346ab5928.js",
+      "path---imprint-303770d1d64346ab5928.js.map"
+    ],
+    "path---privacy": [
+      "path---privacy-accfa7f94abfc46dd36c.js",
+      "path---privacy-accfa7f94abfc46dd36c.js.map"
+    ],
+    "component---src-pages-imprint-zh-js": [
+      "component---src-pages-imprint-zh-js-8d5575d9a35c8b0ce179.js",
+      "component---src-pages-imprint-zh-js-8d5575d9a35c8b0ce179.js.map"
+    ],
+    "commons": [
+      "commons-545e8948465b14257105.js",
+      "build-js-styles.css",
+      "commons-545e8948465b14257105.js.map",
+      "build-js-styles.css.map"
+    ],
+    "path---zh-term-of-use": [
+      "path---zh-term-of-use-4b0292c83b8f2462b75c.js",
+      "path---zh-term-of-use-4b0292c83b8f2462b75c.js.map"
+    ],
+    "path---aressuitedocuments": [
+      "path---aressuitedocuments-3bccdcda87405d3ba5be.js",
+      "path---aressuitedocuments-3bccdcda87405d3ba5be.js.map"
+    ],
+    "component---src-pages-index-zh-js": [
+      "component---src-pages-index-zh-js-596f2a3cc1b3dc6e4502.js",
+      "component---src-pages-index-zh-js-596f2a3cc1b3dc6e4502.js.map"
+    ],
+    "path---zh-imprint": [
+      "path---zh-imprint-44f0fc47e720571d9f25.js",
+      "path---zh-imprint-44f0fc47e720571d9f25.js.map"
+    ],
+    "app": [
+      "app-0b47c39554b3b668d6b8.js",
+      "build-js-styles.css",
+      "app-0b47c39554b3b668d6b8.js.map",
+      "build-js-styles.css.map"
+    ],
+    "path---aresarena": [
+      "path---aresarena-4328b2f79b569e8c5fad.js",
+      "path---aresarena-4328b2f79b569e8c5fad.js.map"
+    ],
+    "component---src-pages-aressuitedocuments-js": [
+      "component---src-pages-aressuitedocuments-js-3874f15a55bdea9682fd.js",
+      "component---src-pages-aressuitedocuments-js-3874f15a55bdea9682fd.js.map"
+    ],
+    "path---wallet": [
+      "path---wallet-428d3aefd192692cdabb.js",
+      "path---wallet-428d3aefd192692cdabb.js.map"
+    ],
+    "component---src-pages-about-js": [
+      "component---src-pages-about-js-a72887e33e2cb3068227.js",
+      "component---src-pages-about-js-a72887e33e2cb3068227.js.map"
+    ],
+    "path---aresconnect": [
+      "path---aresconnect-3609f910aafb6398c2b3.js",
+      "path---aresconnect-3609f910aafb6398c2b3.js.map"
+    ],
+    "path---about": [
+      "path---about-15e7d2d864c9444fa865.js",
+      "path---about-15e7d2d864c9444fa865.js.map"
+    ]
+  }
+}
